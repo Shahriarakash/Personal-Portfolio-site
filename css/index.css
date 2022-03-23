@@ -7,7 +7,7 @@
 }
 
 body{
-    background: url(/images/background.jpg);
+    background: var(--color-third);
     font-family: 'Montserrat', sans-serif;
     color: var(--color-secondary)!important;
 }
