@@ -6,6 +6,13 @@
     --color-background: rgba(18, 38, 70, 0.829);
 }
 
+@media screen and (max-width: 400px) {
+    html{
+        font-size: 13px;
+    }
+}
+
+
 body{
     background: var(--color-third);
     font-family: 'Montserrat', sans-serif;
