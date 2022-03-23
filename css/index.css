@@ -14,7 +14,7 @@
 
 
 body{
-    background: var(--color-third);
+    background-image: url(/images/background.jpg);
     font-family: 'Montserrat', sans-serif;
     color: var(--color-secondary)!important;
 }
